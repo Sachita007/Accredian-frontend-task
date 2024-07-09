@@ -23,7 +23,7 @@ function ReferSection() {
                 </div>
             </div>
             <div className='flex flex-col mt-20 mb-20 w-full py-[3rem]  bg-[#e6f0fc] justify-center items-center'>
-                <div className='mb-10'> How Do I Refer?</div>
+                <div className='mb-10 text-xl font-medium'> How Do <span className='text-[#1A73E8]'> I Refer?</span> </div>
                 <div className='flex flex-col mt-20 mb-20 w-full py-[3rem] md:h-[500px] xl:h-[700px] bg-[#e6f0fc] flex justify-center items-center relative'>
 
                     {/* Background Image Container with Color */}
